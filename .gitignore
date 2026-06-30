@@ -1,0 +1,15 @@
+# Runtime data — never commit
+downloads/
+chrome_data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
